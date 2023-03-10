@@ -1,0 +1,44 @@
+
+1)descargar jdk (incluye la jre)
+https://java.sun.com/
+
+2)apache netbeans --> ide -> entorno de desarrollo integrado
+
+javac.exe
+debugger
+
+app
+	--> paquetes(package)
+		--> estructuras de datos
+			--> clases
+				--> atributos
+				--> metodos
+			--> interfaces
+			--> excepciones
+			--> enumeraciones
+			--> errores
+			--> doc, jpg, mp3, mp4
+
+	---------------------------------------
+	POO
+		--> todo es un objeto 
+		--> todo objeto pertenece a una clase
+		--> toda clase tiene
+			--> atributos
+			--> metodos
+
+		clase Auto (pascalCase)
+			--> atributos: patente, marca, modelo, precio,
+			color, cantidadDePuertas (camelCase)
+			--> metodos: doblar, frenar, acelerar, chocar
+
+		clase CajaDeAhorro
+			--> atributos: saldo, cbu, alias, titular, tipoDeMoneda 
+			--> metodos: extraer, depositar, transferir, informarUltimosMovimientos
+
+		estado de un objeto
+		comportamiento de un objeto
+
+		El estado de un objeto deberia cambiar a traves del comportamiento
+
+		https://www.github.com/cfpit
