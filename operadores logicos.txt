@@ -1,0 +1,18 @@
+operadores logicos
+	-> Y : and : simultaneidad --> & amphersand
+	-> O : or : selectora -->  | (alt 124) pipe
+	--> NO : not : negacion --> !true = false
+
+	logica --> proposicion: es una afirmacion q puede ser V o F
+	programacion --> condicion logica
+
+
+
+
+
+
+
+
+
+
+	
