@@ -1,0 +1,41 @@
+Logica
+
+proposicion: es una afirmacion que puede ser V o F
+Ej: "mañana, va a llover?" --> no es proposicion
+Ej: "El dolar va a bajar" --> si es proposicion
+
+logica --> proposiciones
+programacion --> condiciones logicas
+
+Para relacionar las condiciones logicas se usan los
+operadores logicos
+
+1) Y --> & (amphersand) --> simultaneidad de condiciones verdaderas
+2) O --> | (pipe) --> seleccion de cualquier condicion verdadera
+3) NO --> ! --> negacion logica 	
+
+Ej:
+A = "tengo dinero"
+B = "es sabado"
+
+TABLA DE VERDAD
+
+A 		B 		A & B 		A | B 		!(A & B)
+F		F 		F 			F 				V
+F		V 		F 			V 				V
+V		F 		F 			V 				V
+V 		V 		V 			V 				F
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
